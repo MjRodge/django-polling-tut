@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac17f870-c9dd-4284-8d6d-89e9007016c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/polling_app/templates/polling_app/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polling_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polling_app/views.py" afterDir="false" />
     </list>
